@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **alae2ba@gmail.com**
 
-- <a href="./Alae_TOUBA_software_engineer.pdf" target="_blank" rel="noopener noreferrer">📄 My resumé</a>
+<!-- - <a href="./Alae_TOUBA_software_engineer.pdf" target="_blank" rel="noopener noreferrer">📄 My resumé</a> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
