@@ -3,7 +3,6 @@
 
 - 🔭 Currently working as a software engineer at Orange business **OneAdmin (an IAM project)**
 
-- 📝 My notes are public on [https://github.com/alae-touba/software-engineering-notes](https://github.com/alae-touba/software-engineering-notes)
 
 - 📫 How to reach me **alae2ba@gmail.com**
 
