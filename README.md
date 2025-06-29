@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alae Toua</h1>
-<h3 align="center">a software engineer</h3>
 
-- 🔭 Currently working as a software engineer at Orange business **OneAdmin (an IAM project)**
+- 🔭 Currently working as a software engineer at Orange business
 
 
 - 📫 How to reach me **alae2ba@gmail.com**
